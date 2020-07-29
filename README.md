@@ -26,5 +26,11 @@ I hope you enjoy looking around.
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
+2. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
+3. 🎉 Merged PR [#1](https://github.com//keanuplayz/Weather-PWA/pull/1) in [keanuplayz/Weather-PWA](https://github.com//keanuplayz/Weather-PWA)
+4. 🎉 Merged PR [#1](https://github.com//TKLProjects/jukebot/pull/1) in [TKLProjects/jukebot](https://github.com//TKLProjects/jukebot)
+5. 🎉 Merged PR [#50](https://github.com//keanuplayz/Flipbook-Electron/pull/50) in [keanuplayz/Flipbook-Electron](https://github.com//keanuplayz/Flipbook-Electron)
+<!--END_SECTION:activity-->
 
 [![keanuplayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanuplayz)](https://github.com/anuraghazra/github-readme-stats)
