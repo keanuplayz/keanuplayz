@@ -24,7 +24,7 @@ I hope you enjoy looking around.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
 2. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
