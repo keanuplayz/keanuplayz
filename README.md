@@ -13,7 +13,7 @@ I hope you enjoy looking around.
   - [@KeanuRAR](https://twitter.com/KeanuRAR) on Twitter.
   - keanucode#7888 on Discord.
 - ⚡ Fun fact: I started programming when I was 7 ~ 8 years old.
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 ## **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,4 +33,12 @@ I hope you enjoy looking around.
 5. 🎉 Merged PR [#50](https://github.com//keanuplayz/Flipbook-Electron/pull/50) in [keanuplayz/Flipbook-Electron](https://github.com//keanuplayz/Flipbook-Electron)
 <!--END_SECTION:activity-->
 
-[![keanuplayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanuplayz)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats Cards
+<!-- [![keanuplayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanuplayz)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/keanuplayz/keanuplayz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanuplayz&hide=html,kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/keanuplayz/keanuplayz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keanuplayz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Keanu's GitHub Stats" />
+</a>
