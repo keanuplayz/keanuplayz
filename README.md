@@ -6,7 +6,7 @@ This is *the* place where I upload all of my projects.
 
 I hope you enjoy looking around.
 
-- 🔭 I’m currently working on TravBot.
+- 🔭 I’m currently working on [TravBot](https://github.com/keanuplayz/TravBot).
 - 👯 I’m looking to collaborate on Node.JS projects.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me: 
