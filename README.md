@@ -26,11 +26,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
-2. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
-3. 🎉 Merged PR [#1](https://github.com//keanuplayz/Weather-PWA/pull/1) in [keanuplayz/Weather-PWA](https://github.com//keanuplayz/Weather-PWA)
-4. 🎉 Merged PR [#1](https://github.com//TKLProjects/jukebot/pull/1) in [TKLProjects/jukebot](https://github.com//TKLProjects/jukebot)
-5. 🎉 Merged PR [#50](https://github.com//keanuplayz/Flipbook-Electron/pull/50) in [keanuplayz/Flipbook-Electron](https://github.com//keanuplayz/Flipbook-Electron)
+1. ❗️ Closed issue [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
+2. 🗣 Commented on [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
+3. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
+4. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
+5. 🎉 Merged PR [#1](https://github.com//keanuplayz/Weather-PWA/pull/1) in [keanuplayz/Weather-PWA](https://github.com//keanuplayz/Weather-PWA)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
