@@ -24,6 +24,10 @@ I hope you enjoy looking around.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## 📕 My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
