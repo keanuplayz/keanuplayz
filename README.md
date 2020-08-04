@@ -33,11 +33,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
-2. ❗️ Closed issue [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
-3. 🗣 Commented on [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
-4. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
-5. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
+1. 🎉 Merged PR [#22](https://github.com//keanuplayz/KeanuWebsite/pull/22) in [keanuplayz/KeanuWebsite](https://github.com//keanuplayz/KeanuWebsite)
+2. 💪 Opened PR [#1](https://github.com//theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
+3. ❗️ Closed issue [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
+4. 🗣 Commented on [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
+5. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
