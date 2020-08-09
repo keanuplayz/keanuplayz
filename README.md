@@ -33,11 +33,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com//keanuplayz/TravBot/issues/142) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-2. 🎉 Merged PR [#139](https://github.com//keanuplayz/TravBot/pull/139) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-3. 🎉 Merged PR [#140](https://github.com//keanuplayz/TravBot/pull/140) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-4. 🎉 Merged PR [#144](https://github.com//keanuplayz/TravBot/pull/144) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-5. 🎉 Merged PR [#22](https://github.com//keanuplayz/KeanuWebsite/pull/22) in [keanuplayz/KeanuWebsite](https://github.com//keanuplayz/KeanuWebsite)
+1. 🎉 Merged PR [#1](https://github.com//keanuplayz/keanucode.ml/pull/1) in [keanuplayz/keanucode.ml](https://github.com//keanuplayz/keanucode.ml)
+2. 🎉 Merged PR [#146](https://github.com//keanuplayz/TravBot/pull/146) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
+3. 🗣 Commented on [#146](https://github.com//keanuplayz/TravBot/issues/146) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
+4. 🗣 Commented on [#142](https://github.com//keanuplayz/TravBot/issues/142) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
+5. 🎉 Merged PR [#139](https://github.com//keanuplayz/TravBot/pull/139) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
