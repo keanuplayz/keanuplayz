@@ -33,11 +33,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com//GSculerlor/Cytosu/pull/9) in [GSculerlor/Cytosu](https://github.com//GSculerlor/Cytosu)
-2. 🎉 Merged PR [#1](https://github.com//keanuplayz/keanucode.ml/pull/1) in [keanuplayz/keanucode.ml](https://github.com//keanuplayz/keanucode.ml)
-3. 🎉 Merged PR [#146](https://github.com//keanuplayz/TravBot/pull/146) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-4. 🗣 Commented on [#146](https://github.com//keanuplayz/TravBot/issues/146) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-5. 🗣 Commented on [#142](https://github.com//keanuplayz/TravBot/issues/142) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
+1. 🎉 Merged PR [#3](https://github.com//keanuplayz/initrepo/pull/3) in [keanuplayz/initrepo](https://github.com//keanuplayz/initrepo)
+2. 🎉 Merged PR [#2](https://github.com//keanuplayz/initrepo/pull/2) in [keanuplayz/initrepo](https://github.com//keanuplayz/initrepo)
+3. 💪 Opened PR [#9](https://github.com//GSculerlor/Cytosu/pull/9) in [GSculerlor/Cytosu](https://github.com//GSculerlor/Cytosu)
+4. 🎉 Merged PR [#1](https://github.com//keanuplayz/keanucode.ml/pull/1) in [keanuplayz/keanucode.ml](https://github.com//keanuplayz/keanucode.ml)
+5. 🎉 Merged PR [#146](https://github.com//keanuplayz/TravBot/pull/146) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
