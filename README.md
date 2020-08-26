@@ -26,9 +26,10 @@ I hope you enjoy looking around.
 
 ## 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [3R2's obscure remixed songs.](https://keanucode.vercel.app/posts/kiva-remixes/)
-- [A New Beginning.](https://keanucode.vercel.app/posts/newstart/)
-- [Travbot Update Log 1](https://keanucode.vercel.app/posts/travbot-1/)
+- [A Quiet Night.](https://keanucode.ml/posts/quiet-night/)
+- [3R2's obscure remixed songs.](https://keanucode.ml/posts/kiva-remixes/)
+- [A New Beginning.](https://keanucode.ml/posts/newstart/)
+- [Travbot Update Log 1](https://keanucode.ml/posts/travbot-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔔 My Recent GitHub Activity
