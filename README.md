@@ -34,11 +34,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//keanuplayz/TravBot-v3/pull/6) in [keanuplayz/TravBot-v3](https://github.com//keanuplayz/TravBot-v3)
-2. 🎉 Merged PR [#151](https://github.com//keanuplayz/TravBot/pull/151) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-3. 🎉 Merged PR [#153](https://github.com//keanuplayz/TravBot/pull/153) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-4. 🎉 Merged PR [#155](https://github.com//keanuplayz/TravBot/pull/155) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
-5. 🎉 Merged PR [#5](https://github.com//keanuplayz/TravBot-v3/pull/5) in [keanuplayz/TravBot-v3](https://github.com//keanuplayz/TravBot-v3)
+1. 🎉 Merged PR [#2](https://github.com//TKLProjects/jukebot/pull/2) in [TKLProjects/jukebot](https://github.com//TKLProjects/jukebot)
+2. 🗣 Commented on [#6](https://github.com//keanuplayz/TravBot-v3/issues/6) in [keanuplayz/TravBot-v3](https://github.com//keanuplayz/TravBot-v3)
+3. 💪 Opened PR [#6](https://github.com//keanuplayz/TravBot-v3/pull/6) in [keanuplayz/TravBot-v3](https://github.com//keanuplayz/TravBot-v3)
+4. 🎉 Merged PR [#151](https://github.com//keanuplayz/TravBot/pull/151) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
+5. 🎉 Merged PR [#153](https://github.com//keanuplayz/TravBot/pull/153) in [keanuplayz/TravBot](https://github.com//keanuplayz/TravBot)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
