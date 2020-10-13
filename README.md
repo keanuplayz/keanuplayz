@@ -26,6 +26,7 @@ I hope you enjoy looking around.
 
 ## 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alone.](https://keanucode.ml/posts/alone/)
 - [A Quiet Night.](https://keanucode.ml/posts/quiet-night/)
 - [3R2's obscure remixed songs.](https://keanucode.ml/posts/kiva-remixes/)
 - [A New Beginning.](https://keanucode.ml/posts/newstart/)
