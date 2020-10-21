@@ -35,11 +35,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/keanuplayz/KeanuWebsite/pull/29) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
-2. ❌ Closed PR [#28](https://github.com/keanuplayz/KeanuWebsite/pull/28) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
-3. 🎉 Merged PR [#157](https://github.com/keanuplayz/TravBot/pull/157) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
-4. 🎉 Merged PR [#156](https://github.com/keanuplayz/TravBot/pull/156) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
-5. 🎉 Merged PR [#67](https://github.com/keanuplayz/Flipbook-Electron/pull/67) in [keanuplayz/Flipbook-Electron](https://github.com/keanuplayz/Flipbook-Electron)
+1. 💪 Opened PR [#8](https://github.com/keanuplayz/TravBot-v3/pull/8) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. ❌ Closed PR [#29](https://github.com/keanuplayz/KeanuWebsite/pull/29) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
+3. ❌ Closed PR [#28](https://github.com/keanuplayz/KeanuWebsite/pull/28) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
+4. 🎉 Merged PR [#157](https://github.com/keanuplayz/TravBot/pull/157) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
+5. 🎉 Merged PR [#156](https://github.com/keanuplayz/TravBot/pull/156) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
