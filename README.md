@@ -35,11 +35,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/keanuplayz/discord-selfbot-fixed/pull/1) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-2. 🎉 Merged PR [#2](https://github.com/keanuplayz/discord-selfbot-fixed/pull/2) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-3. 🎉 Merged PR [#3](https://github.com/keanuplayz/discord-selfbot-fixed/pull/3) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-4. 💪 Opened PR [#1](https://github.com/keanuplayz/discord-selfbot-ts/pull/1) in [keanuplayz/discord-selfbot-ts](https://github.com/keanuplayz/discord-selfbot-ts)
-5. 🎉 Merged PR [#8](https://github.com/keanuplayz/TravBot-v3/pull/8) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 🎉 Merged PR [#1](https://github.com/keanuplayz/EmoteRouter/pull/1) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+2. 🎉 Merged PR [#2](https://github.com/keanuplayz/EmoteRouter/pull/2) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+3. 🎉 Merged PR [#3](https://github.com/keanuplayz/EmoteRouter/pull/3) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+4. 🎉 Merged PR [#1](https://github.com/keanuplayz/discord-selfbot-fixed/pull/1) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+5. 🎉 Merged PR [#2](https://github.com/keanuplayz/discord-selfbot-fixed/pull/2) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
