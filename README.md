@@ -35,11 +35,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/keanuplayz/Flipbook-Electron/pull/71) in [keanuplayz/Flipbook-Electron](https://github.com/keanuplayz/Flipbook-Electron)
-2. 🎉 Merged PR [#1](https://github.com/keanuplayz/EmoteRouter/pull/1) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
-3. 🎉 Merged PR [#2](https://github.com/keanuplayz/EmoteRouter/pull/2) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
-4. 🎉 Merged PR [#3](https://github.com/keanuplayz/EmoteRouter/pull/3) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
-5. 🎉 Merged PR [#1](https://github.com/keanuplayz/discord-selfbot-fixed/pull/1) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+1. 🎉 Merged PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+2. 💪 Opened PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+3. 🎉 Merged PR [#71](https://github.com/keanuplayz/Flipbook-Electron/pull/71) in [keanuplayz/Flipbook-Electron](https://github.com/keanuplayz/Flipbook-Electron)
+4. 🎉 Merged PR [#1](https://github.com/keanuplayz/EmoteRouter/pull/1) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+5. 🎉 Merged PR [#2](https://github.com/keanuplayz/EmoteRouter/pull/2) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
