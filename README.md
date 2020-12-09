@@ -35,11 +35,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-2. 🎉 Merged PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-3. 💪 Opened PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-4. 🎉 Merged PR [#71](https://github.com/keanuplayz/Flipbook-Electron/pull/71) in [keanuplayz/Flipbook-Electron](https://github.com/keanuplayz/Flipbook-Electron)
-5. 🎉 Merged PR [#1](https://github.com/keanuplayz/EmoteRouter/pull/1) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+1. 💪 Opened PR [#33](https://github.com/keanuplayz/keanucode.ml-new/pull/33) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+2. ❗️ Opened issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+3. 🎉 Merged PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+4. 💪 Opened PR [#26](https://github.com/keanuplayz/keanucode.ml-new/pull/26) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+5. 🎉 Merged PR [#71](https://github.com/keanuplayz/Flipbook-Electron/pull/71) in [keanuplayz/Flipbook-Electron](https://github.com/keanuplayz/Flipbook-Electron)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
