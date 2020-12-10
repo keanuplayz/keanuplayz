@@ -35,11 +35,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/keanuplayz/bokohalal/pull/2) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-2. 🗣 Commented on [#718](https://github.com/ml5js/ml5-library/issues/718) in [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-3. ❌ Closed PR [#33](https://github.com/keanuplayz/keanucode.ml-new/pull/33) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-4. 💪 Opened PR [#33](https://github.com/keanuplayz/keanucode.ml-new/pull/33) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-5. ❗️ Opened issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+1. ❗️ Closed issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+2. 🗣 Commented on [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+3. 🎉 Merged PR [#2](https://github.com/keanuplayz/bokohalal/pull/2) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+4. 💪 Opened PR [#2](https://github.com/keanuplayz/bokohalal/pull/2) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+5. 🗣 Commented on [#718](https://github.com/ml5js/ml5-library/issues/718) in [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
