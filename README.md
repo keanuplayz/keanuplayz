@@ -36,11 +36,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/keanuplayz/TravBot-v3/pull/18) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-2. 🗣 Commented on [#17](https://github.com/keanuplayz/TravBot-v3/issues/17) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. ❗️ Opened issue [#273](https://github.com/SinisterRectus/Discordia/issues/273) in [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
+2. 🎉 Merged PR [#18](https://github.com/keanuplayz/TravBot-v3/pull/18) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 3. 🗣 Commented on [#17](https://github.com/keanuplayz/TravBot-v3/issues/17) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-4. ❗️ Closed issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-5. 🗣 Commented on [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+4. 🗣 Commented on [#17](https://github.com/keanuplayz/TravBot-v3/issues/17) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. ❗️ Closed issue [#1](https://github.com/keanuplayz/bokohalal/issues/1) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
