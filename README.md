@@ -36,11 +36,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#273](https://github.com/SinisterRectus/Discordia/issues/273) in [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
-2. 🗣 Commented on [#273](https://github.com/SinisterRectus/Discordia/issues/273) in [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
-3. ❌ Closed PR [#174](https://github.com/keanuplayz/TravBot/pull/174) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
-4. ❌ Closed PR [#173](https://github.com/keanuplayz/TravBot/pull/173) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
-5. ❌ Closed PR [#172](https://github.com/keanuplayz/TravBot/pull/172) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
+1. 💪 Opened PR [#20](https://github.com/keanuplayz/TravBot-v3/pull/20) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. ❗️ Closed issue [#273](https://github.com/SinisterRectus/Discordia/issues/273) in [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
+3. 🗣 Commented on [#273](https://github.com/SinisterRectus/Discordia/issues/273) in [SinisterRectus/Discordia](https://github.com/SinisterRectus/Discordia)
+4. ❌ Closed PR [#174](https://github.com/keanuplayz/TravBot/pull/174) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
+5. ❌ Closed PR [#173](https://github.com/keanuplayz/TravBot/pull/173) in [keanuplayz/TravBot](https://github.com/keanuplayz/TravBot)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
