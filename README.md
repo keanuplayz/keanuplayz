@@ -36,11 +36,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
-2. 💪 Opened PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
-3. 💪 Opened PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-4. 🎉 Merged PR [#20](https://github.com/keanuplayz/TravBot-v3/pull/20) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 💪 Opened PR [#20](https://github.com/keanuplayz/TravBot-v3/pull/20) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 💪 Opened PR [#201](https://github.com/CCDirectLink/crosscode-map-editor/pull/201) in [CCDirectLink/crosscode-map-editor](https://github.com/CCDirectLink/crosscode-map-editor)
+2. 🎉 Merged PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
+3. 💪 Opened PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
+4. 💪 Opened PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. 🎉 Merged PR [#20](https://github.com/keanuplayz/TravBot-v3/pull/20) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
