@@ -27,11 +27,11 @@ I hope you enjoy looking around.
 
 ## 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Emptiness.](/posts/2021-01-02-emptiness/)
 - [Alone.](/posts/2020-10-13-alone/)
 - [A Quiet Night.](/posts/2020-08-19-quiet-night/)
 - [3R2's obscure remixed songs.](/posts/2020-07-30-kiva-remixes/)
 - [A New Beginning.](/posts/2020-07-27-newstart/)
-- [Travbot Update Log 1](/posts/2020-02-29-travbot-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔔 My Recent GitHub Activity
