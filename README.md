@@ -36,11 +36,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/CCDirectLink/crosscode-map-editor/pull/201) in [CCDirectLink/crosscode-map-editor](https://github.com/CCDirectLink/crosscode-map-editor)
-2. 🎉 Merged PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
-3. 💪 Opened PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
-4. 💪 Opened PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 🎉 Merged PR [#20](https://github.com/keanuplayz/TravBot-v3/pull/20) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. ❗️ Closed issue [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
+2. 🗣 Commented on [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
+3. ❗️ Opened issue [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
+4. 💪 Opened PR [#201](https://github.com/CCDirectLink/crosscode-map-editor/pull/201) in [CCDirectLink/crosscode-map-editor](https://github.com/CCDirectLink/crosscode-map-editor)
+5. 🎉 Merged PR [#1](https://github.com/keanuplayz/crosscode-map-editor/pull/1) in [keanuplayz/crosscode-map-editor](https://github.com/keanuplayz/crosscode-map-editor)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
