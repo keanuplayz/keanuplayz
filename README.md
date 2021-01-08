@@ -38,11 +38,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-2. 🗣 Commented on [#21](https://github.com/keanuplayz/TravBot-v3/issues/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-3. ❗️ Closed issue [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
-4. 🗣 Commented on [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
-5. ❗️ Opened issue [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
+1. 🎉 Merged PR [#4](https://github.com/keanuplayz/discord-selfbot-fixed/pull/4) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+2. 🎉 Merged PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+3. 🗣 Commented on [#21](https://github.com/keanuplayz/TravBot-v3/issues/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+4. ❗️ Closed issue [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
+5. 🗣 Commented on [#9](https://github.com/LeonardSSH/coc-discord-rpc/issues/9) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
