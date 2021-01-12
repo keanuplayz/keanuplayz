@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://keanucode.ml/feed/feed.xml"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
