@@ -32,8 +32,6 @@ I hope you enjoy looking around.
 - [Life is very long.](/posts/2021-01-10-life/)
 - [Failure.](/posts/2021-01-09-failure/)
 - [Emptiness.](/posts/2021-01-02-emptiness/)
-- [Alone.](/posts/2020-10-13-alone/)
-- [A Quiet Night.](/posts/2020-08-19-quiet-night/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 My WakaTime Stats
