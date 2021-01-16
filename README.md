@@ -36,6 +36,10 @@ I hope you enjoy looking around.
 - [A Quiet Night.](/posts/2020-08-19-quiet-night/)
 <!-- BLOG-POST-LIST:END -->
 
+## 💻 My WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
