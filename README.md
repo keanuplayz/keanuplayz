@@ -38,11 +38,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/Discord-Custom-Covers/usrbg/pull/148) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
-2. 🎉 Merged PR [#10](https://github.com/keanuplayz/dotfiles/pull/10) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. 🎉 Merged PR [#4](https://github.com/keanuplayz/discord-selfbot-fixed/pull/4) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-4. 🎉 Merged PR [#21](https://github.com/keanuplayz/TravBot-v3/pull/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 🗣 Commented on [#21](https://github.com/keanuplayz/TravBot-v3/issues/21) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. ❌ Closed PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
+2. 💪 Opened PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
+3. 🎉 Merged PR [#13](https://github.com/keanuplayz/dotfiles/pull/13) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 💪 Opened PR [#148](https://github.com/Discord-Custom-Covers/usrbg/pull/148) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
+5. 🎉 Merged PR [#10](https://github.com/keanuplayz/dotfiles/pull/10) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
