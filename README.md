@@ -40,11 +40,11 @@ I hope you enjoy looking around.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
-2. 💪 Opened PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
-3. 🎉 Merged PR [#13](https://github.com/keanuplayz/dotfiles/pull/13) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-4. 💪 Opened PR [#148](https://github.com/Discord-Custom-Covers/usrbg/pull/148) in [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg)
-5. 🎉 Merged PR [#10](https://github.com/keanuplayz/dotfiles/pull/10) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🎉 Merged PR [#15](https://github.com/keanuplayz/dotfiles/pull/15) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+2. 💪 Opened PR [#15](https://github.com/keanuplayz/dotfiles/pull/15) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+3. 🎉 Merged PR [#14](https://github.com/keanuplayz/dotfiles/pull/14) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 💪 Opened PR [#14](https://github.com/keanuplayz/dotfiles/pull/14) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+5. ❌ Closed PR [#6](https://github.com/dmitmel/dotfiles/pull/6) in [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
