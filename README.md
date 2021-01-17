@@ -36,6 +36,9 @@ I hope you enjoy looking around.
 
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## 🔔 My Recent GitHub Activity
