@@ -46,11 +46,11 @@ Markdown   2 mins          ████████▓░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/keanuplayz/dotfiles/pull/18) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-2. 💪 Opened PR [#18](https://github.com/keanuplayz/dotfiles/pull/18) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. 🎉 Merged PR [#17](https://github.com/keanuplayz/dotfiles/pull/17) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-4. ❌ Reopened PR [#17](https://github.com/keanuplayz/dotfiles/pull/17) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-5. ❌ Closed PR [#17](https://github.com/keanuplayz/dotfiles/pull/17) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🎉 Merged PR [#2](https://github.com/TKLProjects/TKL-Selfbot/pull/2) in [TKLProjects/TKL-Selfbot](https://github.com/TKLProjects/TKL-Selfbot)
+2. 🎉 Merged PR [#18](https://github.com/keanuplayz/dotfiles/pull/18) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+3. 💪 Opened PR [#18](https://github.com/keanuplayz/dotfiles/pull/18) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 🎉 Merged PR [#17](https://github.com/keanuplayz/dotfiles/pull/17) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+5. ❌ Reopened PR [#17](https://github.com/keanuplayz/dotfiles/pull/17) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
