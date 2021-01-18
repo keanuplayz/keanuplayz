@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 YAML       5 mins          ████████████████▒░░░░░░░░   65.75 % 
 Markdown   2 mins          ████████▓░░░░░░░░░░░░░░░░   34.25 % 
