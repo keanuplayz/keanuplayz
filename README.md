@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/keanuplayz/TravBot-v3/pull/22) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-2. ❗️ Opened issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-3. 💪 Opened PR [#3](https://github.com/keanuplayz/bokohalal/pull/3) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-4. 🎉 Merged PR [#2](https://github.com/TKLProjects/TKL-Selfbot/pull/2) in [TKLProjects/TKL-Selfbot](https://github.com/TKLProjects/TKL-Selfbot)
-5. 🎉 Merged PR [#18](https://github.com/keanuplayz/dotfiles/pull/18) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🎉 Merged PR [#2](https://github.com/keanuplayz/usrbg/pull/2) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+2. 🎉 Merged PR [#1](https://github.com/keanuplayz/usrbg/pull/1) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+3. 🎉 Merged PR [#22](https://github.com/keanuplayz/TravBot-v3/pull/22) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+4. ❗️ Opened issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+5. 💪 Opened PR [#3](https://github.com/keanuplayz/bokohalal/pull/3) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
