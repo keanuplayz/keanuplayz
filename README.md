@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/themsaid/ibis/issues/25) in [themsaid/ibis](https://github.com/themsaid/ibis)
-2. 🎉 Merged PR [#2](https://github.com/keanuplayz/usrbg/pull/2) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
-3. 🎉 Merged PR [#1](https://github.com/keanuplayz/usrbg/pull/1) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
-4. 🎉 Merged PR [#22](https://github.com/keanuplayz/TravBot-v3/pull/22) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. ❗️ Opened issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+1. 🗣 Commented on [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+2. 🗣 Commented on [#25](https://github.com/themsaid/ibis/issues/25) in [themsaid/ibis](https://github.com/themsaid/ibis)
+3. 🎉 Merged PR [#2](https://github.com/keanuplayz/usrbg/pull/2) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+4. 🎉 Merged PR [#1](https://github.com/keanuplayz/usrbg/pull/1) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+5. 🎉 Merged PR [#22](https://github.com/keanuplayz/TravBot-v3/pull/22) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
