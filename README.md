@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-2. 🎉 Merged PR [#3](https://github.com/keanuplayz/bokohalal/pull/3) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-3. 🗣 Commented on [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-4. 🗣 Commented on [#25](https://github.com/themsaid/ibis/issues/25) in [themsaid/ibis](https://github.com/themsaid/ibis)
-5. 🎉 Merged PR [#2](https://github.com/keanuplayz/usrbg/pull/2) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+1. 🗣 Commented on [#2912](https://github.com/PreMiD/Presences/issues/2912) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🗣 Commented on [#2912](https://github.com/PreMiD/Presences/issues/2912) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. ❗️ Closed issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+4. 🎉 Merged PR [#3](https://github.com/keanuplayz/bokohalal/pull/3) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+5. 🗣 Commented on [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
