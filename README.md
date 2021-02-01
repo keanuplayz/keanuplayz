@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 Python     41 mins         █████████▒░░░░░░░░░░░░░░░   37.28 % 
 Markdown   33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.44 % 
