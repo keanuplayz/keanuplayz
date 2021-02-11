@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/keanuplayz/EmoteRouter/pull/5) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
-2. 🗣 Commented on [#2912](https://github.com/PreMiD/Presences/issues/2912) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 🎉 Merged PR [#6](https://github.com/keanuplayz/EmoteRouter/pull/6) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
+2. 🎉 Merged PR [#5](https://github.com/keanuplayz/EmoteRouter/pull/5) in [keanuplayz/EmoteRouter](https://github.com/keanuplayz/EmoteRouter)
 3. 🗣 Commented on [#2912](https://github.com/PreMiD/Presences/issues/2912) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. ❗️ Closed issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-5. 🎉 Merged PR [#3](https://github.com/keanuplayz/bokohalal/pull/3) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+4. 🗣 Commented on [#2912](https://github.com/PreMiD/Presences/issues/2912) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. ❗️ Closed issue [#4](https://github.com/keanuplayz/bokohalal/issues/4) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
