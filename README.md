@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/keanuplayz/LoggerTS/pull/1) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
-2. 🎉 Merged PR [#36](https://github.com/keanuplayz/keanucode.ml-new/pull/36) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-3. 🎉 Merged PR [#35](https://github.com/keanuplayz/keanucode.ml-new/pull/35) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-4. 🎉 Merged PR [#5](https://github.com/keanuplayz/bokohalal/pull/5) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-5. 🎉 Merged PR [#24](https://github.com/keanuplayz/TravBot-v3/pull/24) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 🎉 Merged PR [#3](https://github.com/keanuplayz/LoggerTS/pull/3) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
+2. 🎉 Merged PR [#1](https://github.com/keanuplayz/LoggerTS/pull/1) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
+3. 🎉 Merged PR [#36](https://github.com/keanuplayz/keanucode.ml-new/pull/36) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+4. 🎉 Merged PR [#35](https://github.com/keanuplayz/keanucode.ml-new/pull/35) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+5. 🎉 Merged PR [#5](https://github.com/keanuplayz/bokohalal/pull/5) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
