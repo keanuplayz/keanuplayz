@@ -49,11 +49,11 @@ YAML       7 mins          █▓░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/CCDirectLink/CCModDB/pull/125) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
-2. 🗣 Commented on [#124](https://github.com/CCDirectLink/CCModDB/issues/124) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
-3. 💪 Opened PR [#124](https://github.com/CCDirectLink/CCModDB/pull/124) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
-4. 🎉 Merged PR [#3](https://github.com/keanuplayz/LoggerTS/pull/3) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
-5. 🎉 Merged PR [#1](https://github.com/keanuplayz/LoggerTS/pull/1) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
+1. 🎉 Merged PR [#32](https://github.com/keanuplayz/KeanuWebsite/pull/32) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
+2. 💪 Opened PR [#125](https://github.com/CCDirectLink/CCModDB/pull/125) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+3. 🗣 Commented on [#124](https://github.com/CCDirectLink/CCModDB/issues/124) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+4. 💪 Opened PR [#124](https://github.com/CCDirectLink/CCModDB/pull/124) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+5. 🎉 Merged PR [#3](https://github.com/keanuplayz/LoggerTS/pull/3) in [keanuplayz/LoggerTS](https://github.com/keanuplayz/LoggerTS)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
