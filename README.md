@@ -29,9 +29,6 @@ I hope you enjoy looking around.
 
 ## 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Too Soon.](/posts/2021-01-26-toosoon/)
-- [Who am I?](/posts/2021-01-19-whoami/)
-- [Life is very long.](/posts/2021-01-10-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 My WakaTime Stats
