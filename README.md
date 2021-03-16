@@ -29,6 +29,9 @@ I hope you enjoy looking around.
 
 ## 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Too Soon.](https://keanucode.ml/posts/2021-01-26-toosoon/)
+- [Who am I?](https://keanucode.ml/posts/2021-01-19-whoami/)
+- [Life is very long.](https://keanucode.ml/posts/2021-01-10-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 My WakaTime Stats
