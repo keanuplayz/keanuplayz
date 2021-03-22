@@ -49,11 +49,11 @@ JavaScript   36 mins         █▓░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/keanuplayz/discord-selfbot-fixed/pull/5) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-2. 🎉 Merged PR [#221](https://github.com/keanuplayz/dotfiles/pull/221) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. 🎉 Merged PR [#32](https://github.com/keanuplayz/KeanuWebsite/pull/32) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
-4. 💪 Opened PR [#125](https://github.com/CCDirectLink/CCModDB/pull/125) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
-5. 🗣 Commented on [#124](https://github.com/CCDirectLink/CCModDB/issues/124) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+1. 💪 Opened PR [#130](https://github.com/CCDirectLink/CCModDB/pull/130) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+2. 🎉 Merged PR [#5](https://github.com/keanuplayz/discord-selfbot-fixed/pull/5) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+3. 🎉 Merged PR [#221](https://github.com/keanuplayz/dotfiles/pull/221) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 🎉 Merged PR [#32](https://github.com/keanuplayz/KeanuWebsite/pull/32) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
+5. 💪 Opened PR [#125](https://github.com/CCDirectLink/CCModDB/pull/125) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
