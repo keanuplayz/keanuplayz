@@ -49,11 +49,11 @@ Python       37 mins         █▓░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/CCDirectLink/CCdiscord/pull/15) in [CCDirectLink/CCdiscord](https://github.com/CCDirectLink/CCdiscord)
-2. 💪 Opened PR [#130](https://github.com/CCDirectLink/CCModDB/pull/130) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
-3. 🎉 Merged PR [#5](https://github.com/keanuplayz/discord-selfbot-fixed/pull/5) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-4. 🎉 Merged PR [#221](https://github.com/keanuplayz/dotfiles/pull/221) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-5. 🎉 Merged PR [#32](https://github.com/keanuplayz/KeanuWebsite/pull/32) in [keanuplayz/KeanuWebsite](https://github.com/keanuplayz/KeanuWebsite)
+1. 🎉 Merged PR [#1](https://github.com/keanuplayz/flipbook/pull/1) in [keanuplayz/flipbook](https://github.com/keanuplayz/flipbook)
+2. 💪 Opened PR [#15](https://github.com/CCDirectLink/CCdiscord/pull/15) in [CCDirectLink/CCdiscord](https://github.com/CCDirectLink/CCdiscord)
+3. 💪 Opened PR [#130](https://github.com/CCDirectLink/CCModDB/pull/130) in [CCDirectLink/CCModDB](https://github.com/CCDirectLink/CCModDB)
+4. 🎉 Merged PR [#5](https://github.com/keanuplayz/discord-selfbot-fixed/pull/5) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+5. 🎉 Merged PR [#221](https://github.com/keanuplayz/dotfiles/pull/221) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
