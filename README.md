@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 27 March, 2021 - 03 April, 2021
+Week: 28 March, 2021 - 04 April, 2021
 
 TypeScript   2 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   36.72 % 
 JavaScript   2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.30 % 
