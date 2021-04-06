@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2021 - 04 April, 2021
+Week: 29 March, 2021 - 05 April, 2021
 
 JavaScript   2 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   31.55 % 
 Docker       1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
