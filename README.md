@@ -49,11 +49,11 @@ TypeScript   43 mins         ██▓░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/keanuplayz/TravBot-v3/pull/30) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-2. 🎉 Merged PR [#27](https://github.com/keanuplayz/TravBot-v3/pull/27) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-3. 🎉 Merged PR [#2](https://github.com/keanuplayz/flipbook/pull/2) in [keanuplayz/flipbook](https://github.com/keanuplayz/flipbook)
-4. 🎉 Merged PR [#1](https://github.com/keanuplayz/flipbook/pull/1) in [keanuplayz/flipbook](https://github.com/keanuplayz/flipbook)
-5. 💪 Opened PR [#15](https://github.com/CCDirectLink/CCdiscord/pull/15) in [CCDirectLink/CCdiscord](https://github.com/CCDirectLink/CCdiscord)
+1. 🎉 Merged PR [#33](https://github.com/keanuplayz/TravBot-v3/pull/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. 🗣 Commented on [#33](https://github.com/keanuplayz/TravBot-v3/issues/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+3. 🎉 Merged PR [#6](https://github.com/keanuplayz/discord-selfbot-fixed/pull/6) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+4. 🎉 Merged PR [#3](https://github.com/keanuplayz/usrbg/pull/3) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
+5. 🎉 Merged PR [#30](https://github.com/keanuplayz/TravBot-v3/pull/30) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
