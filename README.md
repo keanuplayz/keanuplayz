@@ -49,11 +49,11 @@ Other        26 mins         ██▒░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/keanuplayz/TravBot-v3/pull/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-2. 🗣 Commented on [#33](https://github.com/keanuplayz/TravBot-v3/issues/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-3. 🎉 Merged PR [#6](https://github.com/keanuplayz/discord-selfbot-fixed/pull/6) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-4. 🎉 Merged PR [#3](https://github.com/keanuplayz/usrbg/pull/3) in [keanuplayz/usrbg](https://github.com/keanuplayz/usrbg)
-5. 🎉 Merged PR [#30](https://github.com/keanuplayz/TravBot-v3/pull/30) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 🎉 Merged PR [#28](https://github.com/keanuplayz/TravBot-v3/pull/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. 🗣 Commented on [#28](https://github.com/keanuplayz/TravBot-v3/issues/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+3. 🎉 Merged PR [#33](https://github.com/keanuplayz/TravBot-v3/pull/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+4. 🗣 Commented on [#33](https://github.com/keanuplayz/TravBot-v3/issues/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. 🎉 Merged PR [#6](https://github.com/keanuplayz/discord-selfbot-fixed/pull/6) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
