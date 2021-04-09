@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2021 - 07 April, 2021
+Week: 01 April, 2021 - 08 April, 2021
 
 Docker       1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   34.12 % 
 TypeScript   1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
