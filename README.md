@@ -49,11 +49,11 @@ Other        24 mins         █░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#235](https://github.com/keanuplayz/dotfiles/pull/235) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-2. 🗣 Commented on [#235](https://github.com/keanuplayz/dotfiles/issues/235) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. 🎉 Merged PR [#28](https://github.com/keanuplayz/TravBot-v3/pull/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-4. 🗣 Commented on [#28](https://github.com/keanuplayz/TravBot-v3/issues/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 🎉 Merged PR [#33](https://github.com/keanuplayz/TravBot-v3/pull/33) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 🎉 Merged PR [#35](https://github.com/keanuplayz/TravBot-v3/pull/35) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. 🎉 Merged PR [#235](https://github.com/keanuplayz/dotfiles/pull/235) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+3. 🗣 Commented on [#235](https://github.com/keanuplayz/dotfiles/issues/235) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 🎉 Merged PR [#28](https://github.com/keanuplayz/TravBot-v3/pull/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. 🗣 Commented on [#28](https://github.com/keanuplayz/TravBot-v3/issues/28) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
