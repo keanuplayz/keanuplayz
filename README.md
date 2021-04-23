@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 14 April, 2021 - 21 April, 2021
+Week: 15 April, 2021 - 22 April, 2021
 
 TypeScript   4 hrs 41 mins   █████████████████▒░░░░░░░   68.81 % 
 Python       1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
