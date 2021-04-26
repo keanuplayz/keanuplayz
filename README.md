@@ -49,11 +49,11 @@ Other        8 mins          ▓░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/jmakxd/dynamaker-modified/pull/1) in [jmakxd/dynamaker-modified](https://github.com/jmakxd/dynamaker-modified)
-2. 💪 Opened PR [#1](https://github.com/jmakxd/dynamaker-modified/pull/1) in [jmakxd/dynamaker-modified](https://github.com/jmakxd/dynamaker-modified)
-3. 🎉 Merged PR [#36](https://github.com/keanuplayz/TravBot-v3/pull/36) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-4. 🎉 Merged PR [#35](https://github.com/keanuplayz/TravBot-v3/pull/35) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 🎉 Merged PR [#235](https://github.com/keanuplayz/dotfiles/pull/235) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🎉 Merged PR [#244](https://github.com/keanuplayz/dotfiles/pull/244) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+2. ❌ Closed PR [#1](https://github.com/jmakxd/dynamaker-modified/pull/1) in [jmakxd/dynamaker-modified](https://github.com/jmakxd/dynamaker-modified)
+3. 💪 Opened PR [#1](https://github.com/jmakxd/dynamaker-modified/pull/1) in [jmakxd/dynamaker-modified](https://github.com/jmakxd/dynamaker-modified)
+4. 🎉 Merged PR [#36](https://github.com/keanuplayz/TravBot-v3/pull/36) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. 🎉 Merged PR [#35](https://github.com/keanuplayz/TravBot-v3/pull/35) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
