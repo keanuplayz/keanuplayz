@@ -39,11 +39,11 @@ I hope you enjoy looking around.
 ```text
 Week: 22 April, 2021 - 29 April, 2021
 
-JavaScript   2 hrs 50 mins   █████████████████▓░░░░░░░   70.74 % 
-TypeScript   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Other        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-HTML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JavaScript   2 hrs 30 mins   █████████████████░░░░░░░░   68.34 % 
+TypeScript   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Other        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+HTML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
