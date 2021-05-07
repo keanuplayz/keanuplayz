@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
 Text    21 mins         █████████████▒░░░░░░░░░░░   53.79 % 
 Git     8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
