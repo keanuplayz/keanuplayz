@@ -49,11 +49,11 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/keanuplayz/bokohalal/pull/7) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-2. 🎉 Merged PR [#8](https://github.com/keanuplayz/bokohalal/pull/8) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-3. 🎉 Merged PR [#6](https://github.com/keanuplayz/bokohalal/pull/6) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-4. 🎉 Merged PR [#37](https://github.com/keanuplayz/keanucode.ml-new/pull/37) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-5. 🎉 Merged PR [#245](https://github.com/keanuplayz/dotfiles/pull/245) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🎉 Merged PR [#255](https://github.com/keanuplayz/dotfiles/pull/255) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+2. 🎉 Merged PR [#7](https://github.com/keanuplayz/bokohalal/pull/7) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+3. 🎉 Merged PR [#8](https://github.com/keanuplayz/bokohalal/pull/8) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+4. 🎉 Merged PR [#6](https://github.com/keanuplayz/bokohalal/pull/6) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+5. 🎉 Merged PR [#37](https://github.com/keanuplayz/keanucode.ml-new/pull/37) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
