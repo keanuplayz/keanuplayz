@@ -49,11 +49,11 @@ CSS          16 mins         █░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#255](https://github.com/keanuplayz/dotfiles/pull/255) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-2. 🎉 Merged PR [#7](https://github.com/keanuplayz/bokohalal/pull/7) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-3. 🎉 Merged PR [#8](https://github.com/keanuplayz/bokohalal/pull/8) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-4. 🎉 Merged PR [#6](https://github.com/keanuplayz/bokohalal/pull/6) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
-5. 🎉 Merged PR [#37](https://github.com/keanuplayz/keanucode.ml-new/pull/37) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+1. 🎉 Merged PR [#261](https://github.com/keanuplayz/dotfiles/pull/261) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+2. 🗣 Commented on [#261](https://github.com/keanuplayz/dotfiles/issues/261) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+3. 🎉 Merged PR [#255](https://github.com/keanuplayz/dotfiles/pull/255) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 🎉 Merged PR [#7](https://github.com/keanuplayz/bokohalal/pull/7) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+5. 🎉 Merged PR [#8](https://github.com/keanuplayz/bokohalal/pull/8) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
