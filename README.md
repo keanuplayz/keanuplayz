@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 10 May, 2021 - 17 May, 2021
+Week: 11 May, 2021 - 18 May, 2021
 
 Markdown     54 mins         ███████████░░░░░░░░░░░░░░   44.61 % 
 JavaScript   29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
