@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2021 - 20 May, 2021
+Week: 14 May, 2021 - 21 May, 2021
 
 TypeScript   39 mins         ██████████░░░░░░░░░░░░░░░   39.58 % 
 Markdown     26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 % 
