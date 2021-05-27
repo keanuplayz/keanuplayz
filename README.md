@@ -49,11 +49,11 @@ TeX     1 min           ░░░░░░░░░░░░░░░░░░�
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/keanuplayz/CCLib/pull/1) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
-2. 🎉 Merged PR [#261](https://github.com/keanuplayz/dotfiles/pull/261) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. 🗣 Commented on [#261](https://github.com/keanuplayz/dotfiles/issues/261) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-4. 🎉 Merged PR [#255](https://github.com/keanuplayz/dotfiles/pull/255) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-5. 🎉 Merged PR [#7](https://github.com/keanuplayz/bokohalal/pull/7) in [keanuplayz/bokohalal](https://github.com/keanuplayz/bokohalal)
+1. 🎉 Merged PR [#40](https://github.com/keanuplayz/keanucode.ml-new/pull/40) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+2. 🎉 Merged PR [#38](https://github.com/keanuplayz/keanucode.ml-new/pull/38) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+3. 🎉 Merged PR [#41](https://github.com/keanuplayz/keanucode.ml-new/pull/41) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+4. 🎉 Merged PR [#39](https://github.com/keanuplayz/keanucode.ml-new/pull/39) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+5. 🎉 Merged PR [#42](https://github.com/keanuplayz/keanucode.ml-new/pull/42) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
