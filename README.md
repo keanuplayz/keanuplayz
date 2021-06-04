@@ -49,11 +49,11 @@ Git Config   9 mins          █▓░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/Aliucord/plugin-requests/issues/39) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-2. 🎉 Merged PR [#2](https://github.com/keanuplayz/CCLib/pull/2) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
-3. 🎉 Merged PR [#270](https://github.com/keanuplayz/dotfiles/pull/270) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-4. 🎉 Merged PR [#40](https://github.com/keanuplayz/keanucode.ml-new/pull/40) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
-5. 🎉 Merged PR [#38](https://github.com/keanuplayz/keanucode.ml-new/pull/38) in [keanuplayz/keanucode.ml-new](https://github.com/keanuplayz/keanucode.ml-new)
+1. 🎉 Merged PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+2. 💪 Opened PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+3. ❗️ Opened issue [#39](https://github.com/Aliucord/plugin-requests/issues/39) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+4. 🎉 Merged PR [#2](https://github.com/keanuplayz/CCLib/pull/2) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
+5. 🎉 Merged PR [#270](https://github.com/keanuplayz/dotfiles/pull/270) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
