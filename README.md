@@ -49,11 +49,11 @@ PHP          20 mins         █░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-2. 💪 Opened PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
-3. ❗️ Opened issue [#39](https://github.com/Aliucord/plugin-requests/issues/39) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-4. 🎉 Merged PR [#2](https://github.com/keanuplayz/CCLib/pull/2) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
-5. 🎉 Merged PR [#270](https://github.com/keanuplayz/dotfiles/pull/270) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+1. 🗣 Commented on [#1](https://github.com/NovaGM/Modules/issues/1) in [NovaGM/Modules](https://github.com/NovaGM/Modules)
+2. 🗣 Commented on [#1](https://github.com/NovaGM/Modules/issues/1) in [NovaGM/Modules](https://github.com/NovaGM/Modules)
+3. 🎉 Merged PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+4. 💪 Opened PR [#282](https://github.com/keanuplayz/dotfiles/pull/282) in [keanuplayz/dotfiles](https://github.com/keanuplayz/dotfiles)
+5. ❗️ Opened issue [#39](https://github.com/Aliucord/plugin-requests/issues/39) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
