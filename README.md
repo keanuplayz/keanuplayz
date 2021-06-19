@@ -39,10 +39,10 @@ I hope you enjoy looking around.
 ```text
 Week: 11 June, 2021 - 18 June, 2021
 
-JSON         35 mins         ███████████████░░░░░░░░░░   60.51 % 
-Smali        17 mins         ███████▒░░░░░░░░░░░░░░░░░   29.63 % 
-TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Groovy       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JSON         20 mins         ██████████▓░░░░░░░░░░░░░░   43.33 % 
+Smali        17 mins         █████████▒░░░░░░░░░░░░░░░   36.87 % 
+Other        5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+TypeScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 <!--END_SECTION:waka-->
 
