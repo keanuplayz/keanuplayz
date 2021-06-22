@@ -39,11 +39,11 @@ I hope you enjoy looking around.
 ```text
 Week: 14 June, 2021 - 21 June, 2021
 
-JSON                       30 mins         ██████████▓░░░░░░░░░░░░░░   42.98 % 
-JavaScript                 21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.62 % 
-Bash                       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Other                      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Nginx configuration file   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Bash                       41 mins         █████████░░░░░░░░░░░░░░░░   35.68 % 
+JavaScript                 33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
+JSON                       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Other                      9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Nginx configuration file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 <!--END_SECTION:waka-->
 
