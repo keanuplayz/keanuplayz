@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 23 June, 2021
+Week: 18 June, 2021 - 24 June, 2021
 
 Bash         2 hrs 16 mins   ██████████████░░░░░░░░░░░   55.83 % 
 JavaScript   33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 % 
