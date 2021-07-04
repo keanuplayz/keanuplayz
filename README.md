@@ -39,9 +39,7 @@ I hope you enjoy looking around.
 ```text
 Week: 27 June, 2021 - 03 July, 2021
 
-Bash    32 mins         ████████████████░░░░░░░░░   63.36 % 
-Other   16 mins         ████████░░░░░░░░░░░░░░░░░   31.65 % 
-INI     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+JSON   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
