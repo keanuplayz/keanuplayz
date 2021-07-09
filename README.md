@@ -39,7 +39,7 @@ I hope you enjoy looking around.
 ```text
 Week: 02 July, 2021 - 08 July, 2021
 
-JSON   1 min           █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
