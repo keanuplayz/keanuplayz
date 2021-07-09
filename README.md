@@ -45,11 +45,11 @@ JSON   1 min           ███████████████████
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/Aliucord/plugin-requests/issues/69) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-2. 🎉 Merged PR [#7](https://github.com/keanuplayz/discord-selfbot-fixed/pull/7) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
-3. 🎉 Merged PR [#4](https://github.com/keanuplayz/CCLib/pull/4) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
-4. 🎉 Merged PR [#3](https://github.com/keanuplayz/CCLib/pull/3) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
-5. 🎉 Merged PR [#1](https://github.com/NovaGM/Modules/pull/1) in [NovaGM/Modules](https://github.com/NovaGM/Modules)
+1. 🗣 Commented on [#72](https://github.com/fosscord/fosscord/issues/72) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
+2. 🗣 Commented on [#69](https://github.com/Aliucord/plugin-requests/issues/69) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+3. 🎉 Merged PR [#7](https://github.com/keanuplayz/discord-selfbot-fixed/pull/7) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+4. 🎉 Merged PR [#4](https://github.com/keanuplayz/CCLib/pull/4) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
+5. 🎉 Merged PR [#3](https://github.com/keanuplayz/CCLib/pull/3) in [keanuplayz/CCLib](https://github.com/keanuplayz/CCLib)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
