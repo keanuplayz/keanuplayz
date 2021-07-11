@@ -37,9 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
