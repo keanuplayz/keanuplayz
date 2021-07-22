@@ -44,10 +44,10 @@ No Activity tracked this Week
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
-2. 🗣 Commented on [#43](https://github.com/Goose-Nest/GT-RevertRebrand/issues/43) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
-3. 🗣 Commented on [#72](https://github.com/fosscord/fosscord/issues/72) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
-4. 🗣 Commented on [#69](https://github.com/Aliucord/plugin-requests/issues/69) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. 🎉 Merged PR [#7](https://github.com/keanuplayz/discord-selfbot-fixed/pull/7) in [keanuplayz/discord-selfbot-fixed](https://github.com/keanuplayz/discord-selfbot-fixed)
+2. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
+3. 🗣 Commented on [#43](https://github.com/Goose-Nest/GT-RevertRebrand/issues/43) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
+4. 🗣 Commented on [#72](https://github.com/fosscord/fosscord/issues/72) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
+5. 🗣 Commented on [#69](https://github.com/Aliucord/plugin-requests/issues/69) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
