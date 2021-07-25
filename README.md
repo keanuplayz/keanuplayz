@@ -43,11 +43,11 @@ No Activity tracked this Week
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/fosscord/fosscord-landingpage/issues/23) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
-2. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
-3. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
-4. 🗣 Commented on [#43](https://github.com/Goose-Nest/GT-RevertRebrand/issues/43) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
-5. 🗣 Commented on [#72](https://github.com/fosscord/fosscord/issues/72) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
+1. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+2. 💪 Opened PR [#44](https://github.com/keanuplayz/TravBot-v3/pull/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+3. 🗣 Commented on [#23](https://github.com/fosscord/fosscord-landingpage/issues/23) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+4. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
+5. 🗣 Commented on [#45](https://github.com/Goose-Nest/GT-RevertRebrand/issues/45) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
