@@ -45,9 +45,9 @@ No Activity tracked this Week
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 2. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-3. 🗣 Commented on [#106](https://github.com/Aliucord/plugin-requests/issues/106) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-4. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-5. 💪 Opened PR [#44](https://github.com/keanuplayz/TravBot-v3/pull/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+3. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+4. 🗣 Commented on [#106](https://github.com/Aliucord/plugin-requests/issues/106) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+5. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
