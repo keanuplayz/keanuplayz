@@ -43,11 +43,11 @@ No Activity tracked this Week
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+1. 🗣 Commented on [#47](https://github.com/Goose-Nest/GT-RevertRebrand/issues/47) in [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand)
 2. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
 3. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
-4. 🗣 Commented on [#106](https://github.com/Aliucord/plugin-requests/issues/106) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+4. 🗣 Commented on [#44](https://github.com/keanuplayz/TravBot-v3/issues/44) in [keanuplayz/TravBot-v3](https://github.com/keanuplayz/TravBot-v3)
+5. 🗣 Commented on [#106](https://github.com/Aliucord/plugin-requests/issues/106) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
