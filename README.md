@@ -43,11 +43,11 @@ No Activity tracked this Week
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
+1. 🎉 Merged PR [#4](https://github.com/keanuplayz/CCExtraDialogue/pull/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
 2. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
-3. 🗣 Commented on [#159](https://github.com/Aliucord/plugin-requests/issues/159) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+3. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
 4. 🗣 Commented on [#159](https://github.com/Aliucord/plugin-requests/issues/159) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-5. 💪 Opened PR [#7](https://github.com/CCDirectLink/c2dl-web/pull/7) in [CCDirectLink/c2dl-web](https://github.com/CCDirectLink/c2dl-web)
+5. 🗣 Commented on [#159](https://github.com/Aliucord/plugin-requests/issues/159) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
