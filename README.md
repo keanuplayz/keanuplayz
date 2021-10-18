@@ -39,7 +39,7 @@ I hope you enjoy looking around.
 ```text
 Week: 11 October, 2021 - 17 October, 2021
 
-Markdown   1 hr 37 mins    █████████████████████████   100.00 % 
+Go   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
