@@ -39,7 +39,10 @@ I hope you enjoy looking around.
 ```text
 Week: 16 October, 2021 - 22 October, 2021
 
-Go   7 mins          █████████████████████████   100.00 % 
+JavaScript       25 mins         ████████████░░░░░░░░░░░░░   47.36 % 
+PHP              14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
+Go               7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Blade Template   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 <!--END_SECTION:waka-->
 
