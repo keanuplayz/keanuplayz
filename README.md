@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 JavaScript       25 mins         ████████████░░░░░░░░░░░░░   47.36 % 
 PHP              14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
