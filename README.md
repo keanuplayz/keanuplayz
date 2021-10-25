@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
 Blade Template   3 hrs 16 mins   █████████████████▒░░░░░░░   69.08 % 
 PHP              34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
