@@ -39,11 +39,11 @@ I hope you enjoy looking around.
 ```text
 Week: 20 October, 2021 - 26 October, 2021
 
-JSX              4 hrs           ██████████▒░░░░░░░░░░░░░░   40.98 % 
-Blade Template   3 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.79 % 
-PHP              1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-JavaScript       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-HTML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JSX              4 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.50 % 
+Blade Template   3 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   36.64 % 
+PHP              1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+JavaScript       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+HTML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 
