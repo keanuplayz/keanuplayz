@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 26 October, 2021
+Week: 21 October, 2021 - 27 October, 2021
 
 JSX              4 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.50 % 
 Blade Template   3 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   36.64 % 
