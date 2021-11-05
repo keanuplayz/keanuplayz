@@ -48,11 +48,11 @@ VimL         3 mins          ▓░░░░░░░░░░░░░░░░
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/Aliucord/plugin-requests/issues/231) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
-2. 🎉 Merged PR [#4](https://github.com/keanuplayz/CCExtraDialogue/pull/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
-3. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
+1. 🗣 Commented on [#1](https://github.com/Cr3atable/nitin-ojha1/issues/1) in [Cr3atable/nitin-ojha1](https://github.com/Cr3atable/nitin-ojha1)
+2. 🗣 Commented on [#231](https://github.com/Aliucord/plugin-requests/issues/231) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+3. 🎉 Merged PR [#4](https://github.com/keanuplayz/CCExtraDialogue/pull/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
 4. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
-5. 🗣 Commented on [#159](https://github.com/Aliucord/plugin-requests/issues/159) in [Aliucord/plugin-requests](https://github.com/Aliucord/plugin-requests)
+5. 🗣 Commented on [#4](https://github.com/keanuplayz/CCExtraDialogue/issues/4) in [keanuplayz/CCExtraDialogue](https://github.com/keanuplayz/CCExtraDialogue)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
