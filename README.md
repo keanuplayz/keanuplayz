@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 TypeScript   1 hr 6 mins     ████████████████▒░░░░░░░░   65.65 % 
 Text         18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 % 
