@@ -39,8 +39,9 @@ I hope you enjoy looking around.
 ```text
 Week: 06 November, 2021 - 12 November, 2021
 
-VimL    9 mins          ██████████████▒░░░░░░░░░░   57.37 % 
-Bash    6 mins          █████████░░░░░░░░░░░░░░░░   36.05 % 
+VimL    9 mins          █████████████▒░░░░░░░░░░░   53.53 % 
+Bash    6 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 % 
+tmux    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 <!--END_SECTION:waka-->
 
