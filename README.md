@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
 VimL    9 mins          ██████████████▒░░░░░░░░░░   57.37 % 
 Bash    6 mins          █████████░░░░░░░░░░░░░░░░   36.05 % 
