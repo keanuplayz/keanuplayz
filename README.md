@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
 Lua          1 hr 14 mins    ████████████▒░░░░░░░░░░░░   48.81 % 
 Ruby         31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
