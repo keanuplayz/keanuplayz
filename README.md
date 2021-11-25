@@ -37,7 +37,7 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
 Markdown     19 mins         ██████████▒░░░░░░░░░░░░░░   41.59 % 
 Lua          12 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
