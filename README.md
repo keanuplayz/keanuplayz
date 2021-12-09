@@ -37,11 +37,9 @@ I hope you enjoy looking around.
 ## 💻 My WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-Markdown   43 mins         █████████████████▓░░░░░░░   70.77 % 
-VimL       11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Bash       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+
 ```
 <!--END_SECTION:waka-->
 
